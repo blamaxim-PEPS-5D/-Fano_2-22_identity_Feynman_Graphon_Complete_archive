@@ -127,7 +127,7 @@ If you use this work in your research, please cite:
   author    = {Blandino, Massimiliano},
   title     = {Fano 2-22 is the Feynman graphon: emergence of FLRW spacetime from a no-free-parameter algebraic construction},
   year      = {2026},
-  doi       = {10.5281/zenodo.XXXXXXXX}
+  doi       = {https://doi.org/10.5281/zenodo.20349651}
 }
 
 
